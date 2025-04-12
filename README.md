@@ -84,4 +84,5 @@ This helps keep your account safe and the bot running smoothly.
 #
 ### 📬 Contact Information
 **🔹 Telegram (Admin): @Aut0Zone**  
-**🔹 Official Channel: [Join Here](https://t.me/+gMgslTRT83hjZjlk)**
+**🔹 Official Channel: [Join Here](https://t.me/+gMgslTRT83hjZjlk)**  
+**🔹 Email: help.socialearningbot@gmail.com**
