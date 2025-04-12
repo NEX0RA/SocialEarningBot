@@ -52,7 +52,7 @@ To End running session, kindly Press `CTRL+C`
  > 💡 Need help setting up Ubuntu? [Watch this guide](https://youtu.be/FdsB5gTVMTk?si=fqH01fVLkkhDhScg)
 
   #### 2. Clone the Repository  
-     git clone https://github.com/Mr-Frst/SocialEarningBot
+     git clone https://github.com/NEX0RA/SocialEarningBot
      cd SocialEarningBot
   #### 3. Install Dependencies
      pip install -r requirements.txt
