@@ -61,7 +61,7 @@ To End running session, kindly Press `CTRL+C`
   #### 6. Authenticate Your SocialEarning & X.com Accounts
   Before using the bot, you must authenticate your session:
   ```
-  python3 nexora.py --auth
+  python3 app.py --auth
   ```
   This will open a browser window. Do the following:
   - ✅ Log in to your SocialEarning.org account.
